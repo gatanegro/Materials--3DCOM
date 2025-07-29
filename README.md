@@ -1,4 +1,6 @@
-### Revolutionary cooling material design based on the Uni ed Oscillatory Field
+### Revolutionary cooling material design based on the Unified Oscillatory Field
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16572305.svg)](https://doi.org/10.5281/zenodo.16572305)
 
 ## Theory (UOFT) and Collatz Octave Model (COM) frameworks.
 
